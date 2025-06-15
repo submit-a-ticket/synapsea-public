@@ -57,8 +57,8 @@ Spotify and Apple Music have their own APIs and privacy policies that apply when
 
 If you have any questions, feedback, or concerns about this privacy policy or your data, feel free to reach out:
 
-**Email:** _[your email or GitHub Issues page]_  
-**GitHub:** [https://github.com/yourusername/synapsea](https://github.com/yourusername/synapsea)
+**Email:** _[https://github.com/submit-a-ticket/synapsea-public/issues]_  
+**GitHub:** [https://github.com/submit-a-ticket/synapsea](https://github.com/submit-a-ticket/synapsea)
 
 ---
 
